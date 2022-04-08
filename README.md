@@ -1,7 +1,7 @@
 ## salve 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on Q&A
+- 🌱 I’m currently learning web automations
+- 👯 I’m looking to collaborate on QA
 - 🤔 I’m looking for help with java
 - 📫 How to reach me: daniel.hcavalcante@souunit.com.br
 - 😄 Pronouns: ele/dele
