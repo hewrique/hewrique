@@ -1,9 +1,9 @@
 ## salve 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Avonale
 - 🌱 I’m currently learning web automations
 - 👯 I’m looking to collaborate on QA
-- 🤔 I’m looking for help with java
-- 📫 How to reach me: daniel.hcavalcante@souunit.com.br
+- 🤔 I’m looking for help with python
+- 📫 How to reach me: daniel.barros@avonale.com.br
 - 😄 Pronouns: ele/dele
 
 ##
