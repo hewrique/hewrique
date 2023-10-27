@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning mobile automations
 - 👯 I’m looking to collaborate on QA
 - 🤔 I’m looking for help with python
-- 📫 How to reach me: daniel.barros@avonale.com.br
+- 📫 How to reach me: daniel.barros@napista.com.br
 - 😄 Pronouns: ele/dele
 
 ##
