@@ -1,8 +1,6 @@
 ## Hi 
-- 🔭 I’m currently working on Avonale
-- 🌱 I’m currently learning mobile automations
-- 👯 I’m looking to collaborate on QA
-- 🤔 I’m looking for help with python
+- 🔭 I’m currently working on Zenqms
+- 🌱 I’m currently learning more and more automations
 - 📫 How to reach me: henrique@zenqms.com
 - 😄 Pronouns: ele/dele
 
